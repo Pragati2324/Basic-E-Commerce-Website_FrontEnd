@@ -1,0 +1,413 @@
+/* .nav-ul{
+  padding: 5px;
+  margin: 0px;
+  background-color: skyblue;
+}
+
+.nav-ul li{
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a{
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.nav-right{
+  text-align: right;
+}
+
+.logo{
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  float: left;
+  margin-top: 3px;
+  margin-left: 10px;
+}
+
+.footer{
+  position: absolute;
+  bottom: 0;
+  background-color: skyblue;
+  width: 100%;
+  text-align: center;
+}
+
+.register , .product{
+  margin-left:30% ;
+}
+
+.inputBox{
+  padding: 7px;
+  display: block;
+  border: 1px solid skyblue;
+  width: 300px;
+  margin: 20px;
+}
+
+.appButton{
+  margin: 20px;
+  width: 80px;
+  padding: 10px;
+  background-color: skyblue;
+  border: solid 1px;
+  cursor: pointer;
+}
+
+.invalid{
+  display: block;
+  color: red;
+  margin-top: 20px;
+  margin-left: 220px;
+}
+.product-list{
+  text-align: center;
+  margin-top:50px ;
+}
+.product-list ul li{
+  display: inline-block;
+  width: 150px;
+  border: 1px solid skyblue;
+}
+.product-list ul{
+  margin: 0px;
+}
+
+.search-product-box{
+  width:400px;
+  margin: 20px;
+  height: 38px;
+  padding-left: 30px;
+  border: solid 1px skyblue;
+}
+ */
+
+
+ /* .nav-ul {
+  padding: 5px;
+  margin: 0;
+  background-color: skyblue;
+}
+
+.nav-ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.logo {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  float: left;
+  margin-top: 3px;
+  margin-left: 10px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  background-color: skyblue;
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+  color: #fff;
+}
+
+.register,
+.product {
+  margin-left: 30%;
+}
+
+.inputBox {
+  padding: 7px;
+  display: block;
+  border: 1px solid skyblue;
+  width: 300px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+.appButton {
+  margin: 20px;
+  width: 120px;
+  padding: 10px;
+  background-color: skyblue;
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: background-color 0.3s ease;
+}
+
+.appButton:hover {
+  background-color: #3399ff;
+}
+
+.invalid {
+  display: block;
+  color: red;
+  margin-top: 20px;
+  margin-left: 220px;
+}
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-list ul li {
+  display: inline-block;
+  width: 150px;
+  border: 1px solid skyblue;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+}
+
+.product-list ul {
+  margin: 0;
+}
+
+.search-product-box {
+  width: 400px;
+  margin: 20px;
+  height: 38px;
+  padding-left: 30px;
+  border: solid 1px skyblue;
+  border-radius: 20px;
+  background-color: #fff;
+  transition: box-shadow 0.3s ease;
+}
+
+.search-product-box:focus {
+  outline: none;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+ */
+
+
+ /* Styling for the navigation menu
+.nav-ul {
+  padding: 5px;
+  margin: 0px;
+  background-color: skyblue;
+}
+
+.nav-ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.logo {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  float: left;
+  margin-top: 3px;
+  margin-left: 10px;
+}
+
+/* 
+.footer {
+  position: absolute;
+  bottom: 0;
+  background-color: skyblue;
+  width: 100%;
+  text-align: center;
+}
+
+
+.register,
+.product {
+  margin-left: 30%;
+}
+
+
+.inputBox {
+  padding: 7px;
+  display: block;
+  border: 1px solid skyblue;
+  width: 300px;
+  margin: 20px;
+}
+
+
+.appButton {
+  margin: 20px;
+  width: 80px;
+  padding: 10px;
+  background-color: skyblue;
+  border: solid 1px;
+  cursor: pointer;
+}
+
+
+.invalid {
+  display: block;
+  color: red;
+  margin-top: 20px;
+  margin-left: 220px;
+}
+
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-list ul li {
+  display: inline-block;
+  width: 150px;
+  border: 1px solid skyblue;
+}
+
+.product-list ul {
+  margin: 0px;
+}
+
+
+.search-product-box {
+  width: 400px;
+  margin: 20px;
+  height: 38px;
+  padding-left: 30px;
+  border: solid 1px skyblue;
+  background-image: linear-gradient(to bottom, #fff, #e6f1ff);
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  outline: none;
+}
+
+.search-product-box::placeholder {
+  color: skyblue;
+}
+
+.search-product-box:focus {
+  border-color: skyblue;
+  box-shadow: 0 0 0 2px skyblue;
+} */
+
+
+.nav-ul {
+  padding: 5px;
+  margin: 0px;
+  background-color: #69db34d5; /* Blue */
+}
+
+.nav-ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.logo {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  float: left;
+  margin-top: 3px;
+  margin-left: 10px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  background-color: hsla(115, 70%, 53%, 0.849); /* Blue */
+  width: 100%;
+  text-align: center;
+}
+
+.register,
+.product {
+  margin-left: 30%;
+}
+
+.inputBox {
+  padding: 7px;
+  display: block;
+  border: 1px solid #3498db; /* Blue */
+  width: 300px;
+  margin: 20px;
+}
+
+.appButton {
+  margin: 20px;
+  width: 80px;
+  padding: 10px;
+  background-color: #3498db; /* Blue */
+  border: solid 1px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.invalid {
+  display: block;
+  color: red;
+  margin-top: 20px;
+  margin-left: 220px;
+}
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-list ul li {
+  display: inline-block;
+  width: 150px;
+  border: 1px solid #3498db; /* Blue */
+  background-color: #f2f2f2; /* Light gray */
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.product-list ul {
+  margin: 0px;
+}
+
+.search-product-box {
+  width: 400px;
+  margin: 20px;
+  height: 38px;
+  padding-left: 30px;
+  border: solid 1px #3498db; /* Blue */
+  border-radius: 5px;
+  background-color: #f2f2f2; /* Light gray */
+}
