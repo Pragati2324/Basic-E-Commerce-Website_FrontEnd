@@ -7,7 +7,7 @@ import PrivateC from './Components/PrivateC';
 import Login from './Components/Login';
 import AddProduct from './Components/AddProduct';
 import ProductList from './Components/ProductList';
-import UpdatePro from './Components/UpdateComponent';
+//import UpdatePro from './Components/UpdateComponent';
 import UpdateComponent from './Components/UpdateComponent';
 
 
