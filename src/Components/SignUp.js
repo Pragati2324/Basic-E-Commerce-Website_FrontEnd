@@ -12,7 +12,7 @@ const SignUp=()=>{
       if(auth){
         navigate('/');
       }
-  },[]);
+  },);
 
   const rname=(e)=>{
         setName(e.target.value);

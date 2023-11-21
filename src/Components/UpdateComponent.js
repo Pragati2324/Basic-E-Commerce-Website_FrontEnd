@@ -12,7 +12,7 @@ function UpdateComponent() {
   const navigate = useNavigate();
   useEffect(() => {
     getProductDetails();
-  }, [])
+  },)
   const getProductDetails = async () => {
       console.warn(params);
       let result = await fetch(`http://localhost:5000/product/${params.id}`);
